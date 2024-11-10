@@ -17,7 +17,10 @@
 .env.development.local
 .env.test.local
 .env.production.local
+<<<<<<< HEAD
 .env 
+=======
+>>>>>>> bdeb88a (Initialize project using Create React App)
 
 npm-debug.log*
 yarn-debug.log*
